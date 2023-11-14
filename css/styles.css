@@ -104,22 +104,12 @@ body {
   letter-spacing: 0.02em;
 }
 
-.third {
+.third .fourth {
   color: var(--NAVY-BLUE, #2e2f42);
   text-align: center;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-}
-
-.fourth {
-  color: var(--NAVY-BLUE, #2e2f42);
-  text-align: center;
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 1.12;
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
